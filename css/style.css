@@ -4,25 +4,22 @@ h1 {
     text-align: center;
     font-size : 45px ;
 }
-h2 {
-    color: #641E16 ;
-    font-style: inherit;
-    text-align: center;
-  }
-  p {
-    font-family: 'Roboto', sans-serif;
-  }
-  ul {
-    line-height: 42px;
-  }
-body {
-    background-color: #FCF3CF ;
+div{
+  text-align: center;
+  align-items: center;
+  display: block;
 }
-strong {
-    font-style : italic ;
-    font-weight : normal ;
+p{
+  text-align: center;
+  align-items: center;
 }
-em {
-    font-style : normal ;
-    font-weight : bold !important;
+div> img{
+  width: 50%;
+}
+ul{
+  text-align: center;
+  list-style: inside;
+}
+img{
+  width: 32%;
 }
