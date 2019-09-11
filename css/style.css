@@ -8,17 +8,20 @@ div{
   text-align: center;
   align-items: center;
   display: block;
+  font-size: 20px;
 }
 p{
   text-align: center;
   align-items: center;
+  font-size: 20px;
 }
 div> img{
   width: 50%;
 }
 ul{
-  text-align: center;
-  list-style: inside;
+  margin-left: 650px;
+  list-style-position: inside;
+  font-size: 20px;
 }
 img{
   width: 32%;
