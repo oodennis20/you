@@ -18,6 +18,14 @@ h2 {
 body {
     background-color: #FCF3CF ;
 }
+strong {
+    font-style : italic ;
+    font-weight : normal ;
+}
+em {
+    font-style : normal ;
+    font-weight : bold !important;
+}
 
   
 
